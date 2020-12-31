@@ -5,7 +5,9 @@ Customer Name, Customer e-mail, Country, Gender, Age, Annual Salary, Credit Card
 The model should predict:
 Car Purchase Amount
 
-2. 
+2. The Chicago Crime dataset contains a summary of the reported crimes occurred in the City of Chicago from 2001 to 2017.
+Dataset contains the following columns: ID, Case Number, Date, Block address, IUCR: The Illinois Unifrom Crime Reporting code, Primary Type, Description, Location Description, Arrest, Domestic, Beat, District, Ward, Community Area, FBI Code, X Coordinate, Y Coordinate, Year, Updated On, Latitude, Longitude, Location.
+The model should predict:
 
 
 
