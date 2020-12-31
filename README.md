@@ -6,3 +6,7 @@ The model should predict:
 Car Purchase Amount
 
 2. 
+
+
+
+All the project from Udemy course: Practical Projects and Go from Zero to Hero in Deep/Machine Learning, Artificial Neural Networks taught by Dr. Ryan Ahmed
