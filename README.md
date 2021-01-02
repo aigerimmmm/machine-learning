@@ -14,4 +14,7 @@ Some relevant columns in the dataset: Date - The date of the observation, Averag
 
 4. In this case study, you have been provided with images of traffic signs and the goal is to train a Deep Network to classify them. The dataset contains 43 different classes of images. The network used is called Le-Net that was presented by Yann LeCun http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 
+5. Detect spam e-mails using Naive Bayes. The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
+
+
 All the project from Udemy course: Practical Projects and Go from Zero to Hero in Deep/Machine Learning, Artificial Neural Networks taught by Dr. Ryan Ahmed
