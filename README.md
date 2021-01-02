@@ -12,5 +12,6 @@ The model should forecast the future trend.
 3. Predicting Avocado prices using facebook prophet.
 Some relevant columns in the dataset: Date - The date of the observation, AveragePrice, type - conventional or organic, year, Region, Total Volume, 4046 - Total number of avocados with PLU 4046 sold, 4225, 4770.
 
+4. In this case study, you have been provided with images of traffic signs and the goal is to train a Deep Network to classify them. The dataset contains 43 different classes of images. The network used is called Le-Net that was presented by Yann LeCun http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 
 All the project from Udemy course: Practical Projects and Go from Zero to Hero in Deep/Machine Learning, Artificial Neural Networks taught by Dr. Ryan Ahmed
